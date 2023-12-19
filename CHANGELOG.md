@@ -1,3 +1,15 @@
+# v0.0.2 (Tue Dec 19 2023)
+
+#### ⚠️ Pushed to `main`
+
+- test ([@Detusndx](https://github.com/Detusndx))
+
+#### Authors: 1
+
+- [@Detusndx](https://github.com/Detusndx)
+
+---
+
 # v0.0.1 (Tue Dec 19 2023)
 
 :tada: This release contains work from new contributors! :tada:

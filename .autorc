@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Detusndx",
+  "repo": "heroku-vpn",
+  "name": "Detusndx",
+  "email": "detusnmix0s@icloud.com",
+}
